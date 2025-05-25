@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Google Homepage Popup Blocker",
+  "version": "1.0",
+  "description": "Disables the sign-in popup on google.com homepage and keeps focus on the search box.",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["https://www.google.com/"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/"],
+      "js": ["content.js"]
+    }
+  ]
+}
