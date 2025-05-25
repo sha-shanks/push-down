@@ -8,7 +8,7 @@ A lightweight Chrome extension that blocks the "Sign in to Google" or "Use Chrom
 
 Below is an example of the pop-up this extension blocks:
 
-![the pop-up in question](https://github.com/sha-shanks/push-down/blob/master/Capture.PNG?raw=true)
+![the pop-up in question](https://github.com/sha-shanks/push-down/blob/main/Capture.PNG?raw=true)
 
 ---
 
